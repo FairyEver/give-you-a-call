@@ -2,11 +2,10 @@
 
 > 制作表情图片的demo，在PC还好，在移动端有偶尔生成的图片上没有表情图的bug
 
-制作:
-<a href="http://ww1.sinaimg.cn/large/006tNc79ly1fip4zcj242j30ku11276n.jpg" style="width: 300px;"></a>
-
-生成:
-<a href="http://ww1.sinaimg.cn/large/006tNc79ly1fip4zolpwdj30ku112dia.jpg" style="width: 300px;"></a>
+制作：
+![](http://ww1.sinaimg.cn/large/006tNc79ly1fip4zcj242j30ku11276n.jpg)
+生成图片：
+![](http://ww1.sinaimg.cn/large/006tNc79ly1fip4zolpwdj30ku112dia.jpg)
 
 ## Build Setup
 
